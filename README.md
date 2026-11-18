@@ -124,9 +124,7 @@ More projects and implementations will be added, including:
 - ADC with hardware timer triggering
 - FreeRTOS synchronization mechanisms
 - Advanced embedded system applications
-
-## Author    Ajay Ingole
-
+  
 **Embedded Software / Firmware Development**
 
 Interested in Embedded C, STM32 microcontrollers, ARM Cortex-M architecture, FreeRTOS, peripheral drivers, and IoT firmware development.
