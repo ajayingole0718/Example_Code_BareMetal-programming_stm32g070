@@ -1,0 +1,6 @@
+../Src/spi.c:8:6:SPIgpioa_init	8	static
+../Src/spi.c:48:6:SPI_config	8	static
+../Src/spi.c:90:6:SPI_transmit	24	static
+../Src/spi.c:108:6:SPI_receive	24	static
+../Src/spi.c:118:6:cs_enable	8	static
+../Src/spi.c:122:6:cs_disable	8	static
